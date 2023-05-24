@@ -1,5 +1,9 @@
 # FULLSTACK WEB DEVELOPMENT
-- [CONTENT]
+ *** on the completion of the course you will be the job ready developer ***
+ *** only join you can give your time ***
+ * If you choose to complete the journey, I shall be very happy to see on celebration *
+
+## CONTENT
  - HTML
  - CSS
  - JavaScript
